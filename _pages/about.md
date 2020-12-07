@@ -27,7 +27,7 @@ Organization Management, Building Information Modelling, Cognitive Facility Mana
 * International Journal of Construction Management (Editorial Secretary, Reviewer);
 * Automation in Construction (Reviewer);
 * Environmental Impact Assessment Review (Reviewer); 
-* Developments in the Built Environment(Reviewer);
+* Developments in the Built Environment (Reviewer);
 * Heliyon (Reviewer).
 
 # Honors and Awards
