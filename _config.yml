@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Tan TAN"
+title                    : "Jinying XU"
 title_separator          : "-"
-name                     : &name "Tan TAN"
-description              : &description "Ph.D. student<br>University College London (UCL), UK"
-url                      : https://tantan-ucl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jinying XU"
+description              : &description "Ph.D. Candidate<br>The University of Hong Kong (HKU), HK"
+url                      : https://jinyingxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tantan-ucl/tantan-ucl.github.io"
+repository               : "EaGlEtSuImars.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tan Tan"
-  avatar           : "0.jpg" # "tantan.jpg" #
-  bio              : "Ph.D. student<br>University College London (UCL), UK"
-  location         : "London, United Kindom"
+  name             : "Jinying XU"
+  avatar           : "jinying.jpg" # "jinying.jpg" #
+  bio              : "Ph.D. Candidate<br>The University of Hong Kong (HKU), HK"
+  location         : "Hong Kong, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
-  email            : "tan.tan.17@ucl.ac.uk"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=yzpBR0kAAAAJ&hl=en"
+  email            : "jinyingxu@connect.hku.hk"
   uri              : 
   bitbucket        :
   codepen          :
@@ -94,10 +94,10 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : "tantan.uk"
+  instagram        : 
   lastfm           :
-  linkedin         : "mrtantan"
-  orcid            : 
+  linkedin         : "Jinying Xu"
+  orcid            : "Jinying Xu"
   pinterest        :
   soundcloud       :
   stackoverflow    :
