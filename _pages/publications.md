@@ -1,37 +1,38 @@
 ---
-title: "Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en))"
+title: "Publications ([Google Scholar Profile](https://scholar.google.co.uk/citations?user=yzpBR0kAAAAJ&hl=en))"
 permalink: /publications/
 author_profile: true
 ---
-## 2020
-* <b>Combining multi-criteria decision making (MCDM) methods with building information modelling (BIM): A review</b>. <br>
-<b>Tan Tan*</b>, Grant Mills, Eleni Papadonikolaki, Zhening Liu. <i>Automation in Construction, 2020</i>. <br>
-[[Link]](https://www.sciencedirect.com/science/article/pii/S0926580520310311)
-* <b>Challenging Space Frontiers in Hospitals: Accelerating capabilities and advancing platforms for modern hospital manufacture</b>. <br>
-Grant Mills, Chris Goodier, Jenifer Kingston, Philip Astley, Anne Symons, <b>Tan Tan</b>, Chris Sherwood. <i>Report prepared for Transforming Construction Network Plus, UCL Bartlett School of Construction and Project Management, 2020</i>. <br>
-[[Link]](http://bit.ly/ChallengingSpaceFrontiersinHospitals-Report)
-* <b>Construction-Oriented Design for Manufacture and Assembly (DfMA) Guidelines</b>. <br>
-<b>Tan Tan</b>, Weisheng Lu*, Gangyi Tan, Fan Xue, Ke Chen, Jinying Xu, Jing Wang, Shang Gao. <i>Journal of Construction Engineering and Management, 2020</i>. <br>
-[[Link]](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001877)
-* <b>BIM-enabled Design for Manufacture and Assembly</b>. <br>
-<b>Tan Tan*</b>, Grant Mills, Eleni Papadonikolaki, Weisheng Lu, Ke Chen. <i>27th International Workshop on Intelligent Computing In Engineering (EG-ICE 2020), 2020</i>. <br>
-[[Link]](https://discovery.ucl.ac.uk/id/eprint/10096750/1/Mills_PDFsam_EG-ICE_2020.pdf)
-* <b>Implementation of Design for Manufacture and Assembly (DfMA) Principles in Construction: A Case Study</b>. <br>
-<b>Tan Tan</b>, Weisheng Lu, Chengqian Li, Ke Chen*, Gangyi Tan. <i>Construction Research Congress 2020: Project Management and Controls, Materials, and Contracts, 2020</i>. <br>
-[[Link]](https://ascelibrary.org/doi/abs/10.1061/9780784482889.096)
-* <b>Construction-Oriented Design for Manufacture and Assembly (DfMA) Guidelines</b>. <br>
-Weisheng Lu, <b>Tan Tan*</b>, Jinying Xu, Jing Wang, Ke Chen, Shang Gao, Fan Xue. <i>Architectural Engineering and Design Management, 2020</i>. <br>
-[[Link]](https://www.tandfonline.com/doi/full/10.1080/17452007.2020.1768505)
+# Journal Papers
+* **Jinying XU**, Meng YE, Weisheng LU, Zhikang BAO, & Chris WEBSTER. (2020). "A four-quadrant conceptual framework for analyzing extended producer responsibility in offshore prefabrication construction".<i>Journal of Cleaner Production<i>, 124540. ([Link](https://doi.org/10.1016/j.jclepro.2020.124540)).
+* **Jinying XU**, Weisheng LU, Meng YE, Chris WEBSTER, & Fan XUE. (2020). "An anatomy of waste generation flows in construction projects using passive bigger data". <i>Waste Management, 106<i>, 162-172.([Link](https://www.sciencedirect.com/science/article/pii/S0956053X20301343)).
+* **Jinying XU**, Weisheng LU, Meng YE, Fan XUE, Xiaoling ZHANG, & Billy F.P. LEE. (2020). "Is the private sector more efficient? Big data analytics of construction waste management sectoral efficiency". <i>Resources Conservation and Recycling, 155<i>, 104674.([Link](https://www.sciencedirect.com/science/article/pii/S0921344919305804)).
+* Weisheng LU, **Jinying XU***, Jonas Söderlund. (2019). "Exploring the effects of building information modelling (BIM) on projects: A longitudinal social network analysis". <i>Journal of Construction Engineering and Management. 146<i>(5), 04020037.([Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001823)).
+* **Jinying XU***, Weisheng LU, Fan XUE, & Ke CHEN. (2019). "‘Cognitive facility management’: definition, system architecture, and example scenario". <i>Automation in Construction. 107<i>, 102922.([Link](https://www.sciencedirect.com/science/article/pii/S0926580519302146)).
+*	**Jinying XU***, Ke CHEN, Anna ZETKULIC, Fan XUE, Yuhan NIU, & Weisheng LU (2019). "Pervasive sensing technologies for facility management: A critical review". <i>Facilities. 38<i> (1/2), 161-180.([Link](https://www.emerald.com/insight/content/doi/10.1108/F-02-2019-0024/full/html)).
+*	**Jinying XU**, Weisheng LU, Fan XUE, Ke CHEN, Meng YE, Jing WANG, & Xi CHEN. (2018). "Cross-boundary collaboration in waste management research: a network analysis". <i>Environmental Impact Assessment Review, 73<i>, 128-141.([Link](https://www.sciencedirect.com/science/article/pii/S0195925518301677)).
+* Tan Tan, Weisheng Lu*, Gangyi Tan, Fan XUE, Ke CHEN, **Jinying XU***, Jing Wang, & Shang Gao. (2020). "Construction-Oriented Design for Manufacture and Assembly (DfMA) Guidelines". <i>Journal of Construction Engineering and Management, 146</i>(8), 04020085. ([Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CO.1943-7862.0001877?casa_token=dt_LQFFHFqIAAAAA%3A_C-JNZhj2ICcmJSzbbxb3_W5DuulL25rRHXrFP7bSkJ84WmOAUc6NMmy_NhER048EqN7Xuzn_9s)).
+* Weisheng LU, Tan Tan, **Jinying XU**, Jing WANG, Ke CHEN, Shang GAO, & Fan XUE. (2020). "Design for Manufacture and Assembly (DfMA) in construction: the old and the new". <i>Architectural Engineering and Design Management</i>, 1-15. ([Link](https://www.tandfonline.com/doi/abs/10.1080/17452007.2020.1768505?journalCode=taem20)).
+* Xi CHEN, Weisheng LU, Fan XUE, & **Jinying XU**. (2018). "A cost-benefit analysis of green buildings with respect to construction waste minimization using big data in Hong Kong". <i>Journal of Green Building, 13<i>(4), 61-76.([Link](https://meridian.allenpress.com/jgb/article-abstract/13/4/61/116285)).
+* Yun LE, **Jinying XU***, Ju BAI. (2016). "Evolutionary Analysis of Mega Infrastructure Investment and Finance Scheme in China from the Perspective of Institutional Transition". <i>Journal of Tongji University (Natural Science), 44<i>(8), 1272-1278. (In Chinese).([Link](http://www.cqvip.com/qk/90798x/201608/669853028.html)).
+* Jian CHEN, Lei SUN, **Jinying XU**, & Tianheng CHEN. (2013). "Engineering management education inspired by the idea of achievement system. <i>Science & Technology Progress and Policy". 30<i>(23), 117-119. (In Chinese).([Link](http://www.cqvip.com/qk/90284x/201323/48247119.html)).
 
+# Conference Papers
+* **Jinying XU***, & Weisheng LU. (2020). The Iron Triangle of BIM adoption in construction project organizations. In <i>The 25th International Symposium on the Advancement of Construction Management and Real Estate<i>. Wuhan, China. (**Outstanding Paper Award**)
+*	**Jinying XU**, Fan XUE, Alain CHIARADIA, & Weisheng LU. (2020). Indoor-outdoor navigation with no beacons: Compensating smartphone AR positioning errors with 3D pedestrian network. In <i>Construction Research Congress 2020<i>, Tempe, USA.([Link](https://ascelibrary.org/doi/abs/10.1061/9780784482858.049))
+*	**Jinying XU***, Weisheng LU, & Ke CHEN. (2019). How do different professionals collaborate in construction projects? A social network analysis perspective. In <i>The 24th International Symposium on the Advancement of Construction Management and Real Estate<i>. Chongqing, China. (**Excellent Paper Award**)
+*	**Jinying XU***, Weisheng LU, & Ling Hin LI. (2019). Cognitive Facilities Management: Definition and Architecture. In <i>International Conference of Smart Infrastructure and Construction 2019<i>. Cambridge, UK.([Link](https://www.icevirtuallibrary.com/doi/full/10.1680/icsic.64669.115))
+*	**Jinying XU***, Weisheng LU, & Jing WANG. (2019). The Gateway to Integrating User Behavior Data in “Cognitive Facility Management”. In <i>The 4th International Conference on Civil and Building Engineering Informatics (ICCBEI 2019)<i>. Sendai, Japan.([Link](https://www.researchgate.net/profile/Jinying_Xu6/publication/337560970_The_Gateway_to_Integrating_User_Behavior_Data_in_Cognitive_Facility_Management/links/5dde103aa6fdcc2837ed9628/The-Gateway-to-Integrating-User-Behavior-Data-in-Cognitive-Facility-Management.pdf))
+*	**Jinying XU***, & Weisheng LU. (2019). Design for construction waste management. In <i>The 2nd International Conference on Sustainable Buildings and Structures (ICSBS 2019)<i>. Suzhou, China.([Link](https://www.researchgate.net/publication/337560974_Design_for_construction_waste_management))
+*	**Jinying XU***, & Weisheng LU. (2018). Smart construction from head to toe: A closed-loop lifecycle management system based on IoT. In <i>Construction Research Congress 2018<i>, New Orleans, USA.([Link](https://ascelibrary.org/doi/abs/10.1061/9780784481264.016))
+*	**Jinying XU***, Ke CHEN, Fan XUE, & Weisheng LU. (2018). 3D point cloud data enabled facility management: A critical review. In <i>The 23rd International Symposium on the Advancement of Construction Management and Real Estate<i>. Guiyang, China.([Link](https://frankxue.com/pdf/xu18pcd.pdf))
+*	Jing WANG, Weisheng LU, & **Jinying XU**. (2019). Modeling the Last-Mile Problem of BIM Adoption. In <i>The 4th International Conference on Civil and Building Engineering Informatics (ICCBEI 2019)<i>. Sendai, Japan.([Link](https://www.researchgate.net/profile/Jinying_Xu6/publication/337561231_Modeling_the_Last-Mile_Problem_of_BIM_Adoption/links/5de7b8f7a6fdcc283704eb97/Modeling-the-Last-Mile-Problem-of-BIM-Adoption.pdf))
+*	Fan XUE, Alain CHIARADIA, Chris WEBSTER, Diandian LIU, **Jinying XU**, & Weisheng LU. (2018). Personalized walkability assessment for pedestrian paths: An as-built BIM approach using ubiquitous augmented reality (AR) smartphone and deep transfer learning. In <i>The 23rd International Symposium on the Advancement of Construction Management and Real Estate<i>. Guiyang, China.([Link](https://pdfs.semanticscholar.org/6a68/e97392837b2632800d8d4a0ba57b91cbc3aa.pdf))
 
-## 2019
-* <b>Semantic enrichment of city information models with LiDAR-based rooftop albedo</b>. <br>
-Fan Xue, Weisheng Xue, <b>Tan Tan</b>, Ke Chen. <i>the 2nd International Conference in Sutainable Buildings and Structures (ICSBS 2019), 2019</i>. <br>
-[[Link]](https://books.google.com/books?hl=en&lr=&id=rMfADwAAQBAJ&oi=fnd&pg=PA207&dq=info:pbGQBFgk7UsJ:scholar.google.com&ots=Mf6HZhxdqq&sig=LLJd8QSzdCE_elihn9XRwpXvYjE#v=onepage&q&f=false)
-* <b>Semantic enrichment for rooftop modeling using aerial LiDAR reflectance</b>. <br>
-<b>Tan Tan</b>, Ke Chen, Weisheng Xue, Fan Xue*. <i>IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2019</i>. <br>
-[[Link]](https://ieeexplore.ieee.org/abstract/document/8960769/)
-* <b>Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach</b>. <br>
-<b>Tan Tan</b>, Ke Chen*, Fan Xue, Weisheng Lu. <i>Journal of Cleaner Production 219, 949-959, 2019</i>. <br>
-[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S095965261930530X)
+# Book Chapters
+* **Jinying XU***, & Weisheng LU. "BIM, Smart Construction Objects (SCOs) and Pervasive Technologies Integration" in <i>Research Companion to Building Information Modeling<i> (2021), edited by Prof. Wilson Lu and Prof. Chimay Anumba, Edward Elgar Publishing Limited. (Peer-reviewed)(Coming Soon)
+*	**Jinying XU***, Weisheng LU, & Yuhan NIU. "Chapter 15 From Smart Construction objects towards Cognitive FM" in <i>Cyber-Physical Systems in the Built Environment<i> (2020), edited by Prof. Chimay Anumba, Taylor & Francis. (Peer-reviewed). ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-41560-0.pdf)) 
+*	"Chapter 7 Current Challenges and future outlooks" in <i>BIM and Big Data for Construction Cost Management<i> (2019), edited by Weisheng Lu, Chi Cheung Lai, and Tung Tse, Routledge.
+*	Section 1, 2, 5 and 6 of <i>Design, Construction, and Management of Hospital Reconstruction and Expansion Projects<i> (2017), edited by Jinhua Wu and Yun Le, Tongji University Press, Shanghai. (In Chinese)
+*	Chapter 2, 3, and 5 of <i>Hospital Construction Project Management: Government Public Engineering Project Management Reform and Innovation<i> (2015), edited by Jianzhong Zhang and Yun Le, Tongji University Press, Shanghai. (In Chinese)
 
