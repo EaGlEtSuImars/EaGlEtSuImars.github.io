@@ -56,7 +56,6 @@ Organization Management, Building Information Modelling, Cognitive Facility Mana
 * Major Program of National Social Science Foundation of China (NSSFC). Evaluation on the environment-resources carrying capacity in megacities and policy instruments with the big data background.CNY800,000.00, 48 months.(**Participant**).
 * Major Program of National Natural Science Foundation of China (NSFC). Research of theories, methods and application innovation of mega infrastructure project management. CNY15,000,000.00, 60 months. (**Participant**).
   
-  
 # Editorship
 * International Journal of Construction Management (Editorial Secretary, Reviewer);
 * Automation in Construction (Reviewer);
@@ -90,5 +89,3 @@ Organization Management, Building Information Modelling, Cognitive Facility Mana
 # Membership
 * Student Member,	American Society of Civil Engineers (ASCE);
 * Student Member, International Council for Research and Innovation in Building and Construction (CIB)；
-<!---Activity and Service--->
-<!---Experience--->
