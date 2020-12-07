@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 
-The Bartlett School of Construction & Project Management<br>
-University College London<br>
-1-19 Torrington Place<br>
-London WC1E 7HB<br>
-Email: tan.tan.17@ucl.ac.uk
+Room 714, Knowles Building<br>
+The University of Hong Kong<br>
+Pokfulam Road<br>
+Hong Kong<br>
+Email: jinyingxu@connect.hku.hk
