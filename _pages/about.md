@@ -14,14 +14,14 @@ I received my Bachelor's degree of Enginnering and Bachelor's degree of Law (sec
 Organization Management, Building Information Modelling, Cognitive Facility Management, Sensing Technologies, Project Management, Construction Waste Management
 
 # Research Projects
-* Hong Kong Innovation and Technology Fund (ITF). <i>“BIM Square”: Blockchain and i-Core-enabled Multi-stakeholder Building Information Modelling Platform for Construction Logistics and Supply Chain Management in Hong Kong<i>. HK$10,360,714.25, 24 months. (**Co-Investigator**).     
-* The Government Policy Innovation and Co-Ordination Office (PICO) Strategic Public Policy Research (SPPR) Funding Scheme. <i>Boosting Construction Waste Material Sharing in the Guangdong- Hong Kong-Macao Bay Area<i>. HK$2,902,000.00, 36 months. (**Key Participant**).
-* The Government Policy Innovation and Co-Ordination Office (PICO) Public Policy Research (PPR) Funding Scheme. <i>Finding the Needles in a Haystack”: Identification of the Illegal Dumping of Construction Waste Using Big Data<i>. HK$ 447,350.00, 18 months. (**Key Participant**).
-* Hong Kong Innovation and Technology Fund (ITF). Trail: RFID-Enabled Building Information Modelling (BIM) Platform for Prefabrication Housing Production in Hong Kong. HK$2,990,000.00, 18 months. (**Participant**).
-* Hong Kong RGC General Research Grant (GRF). The causal effects of green building certification on construction waste minimisation: triangulating ‘big data’ with ‘thick data’. HK$535,000.00, 45 months. (**Participant**).
-* Hong Kong RGC General Research Grant (GRF). Exploring the effects of building information modeling on project-based organisations: A social network approach. HK$500,000.00, 36 months. (**Key Participant**).
-* Major Program of National Social Science Foundation of China (NSSFC). Evaluation on the environment-resources carrying capacity in megacities and policy instruments with the big data background.CNY800,000.00, 48 months.(**Participant**).
-* Major Program of National Natural Science Foundation of China (NSFC). Research of theories, methods and application innovation of mega infrastructure project management. CNY15,000,000.00, 60 months. (**Participant**).
+* Hong Kong Innovation and Technology Fund (ITF). <i>“BIM Square”: Blockchain and i-Core-enabled Multi-stakeholder Building Information Modelling Platform for Construction Logistics and Supply Chain Management in Hong Kong</i>. HK$10,360,714.25, 24 months. (**Co-Investigator**).     
+* The Government Policy Innovation and Co-Ordination Office (PICO) Strategic Public Policy Research (SPPR) Funding Scheme. <i>Boosting Construction Waste Material Sharing in the Guangdong- Hong Kong-Macao Bay Area</i>. HK$2,902,000.00, 36 months. (**Key Participant**).
+* The Government Policy Innovation and Co-Ordination Office (PICO) Public Policy Research (PPR) Funding Scheme. <i>Finding the Needles in a Haystack”: Identification of the Illegal Dumping of Construction Waste Using Big Data</i>. HK$ 447,350.00, 18 months. (**Key Participant**).
+* Hong Kong Innovation and Technology Fund (ITF). <i>Trail: RFID-Enabled Building Information Modelling (BIM) Platform for Prefabrication Housing Production in Hong Kong</i>. HK$2,990,000.00, 18 months. (**Participant**).
+* Hong Kong RGC General Research Grant (GRF). <i>The causal effects of green building certification on construction waste minimisation: triangulating ‘big data’ with ‘thick data’</i>. HK$535,000.00, 45 months. (**Participant**).
+* Hong Kong RGC General Research Grant (GRF). <i>Exploring the effects of building information modeling on project-based organisations: A social network approach</i>. HK$500,000.00, 36 months. (**Key Participant**).
+* Major Program of National Social Science Foundation of China (NSSFC). <i>Evaluation on the environment-resources carrying capacity in megacities and policy instruments with the big data background</i>.CNY800,000.00, 48 months.(**Participant**).
+* Major Program of National Natural Science Foundation of China (NSFC). <i>Research of theories, methods and application innovation of mega infrastructure project management</i>. CNY15,000,000.00, 60 months. (**Participant**).
   
 # Editorship
 * International Journal of Construction Management (Editorial Secretary, Reviewer);
