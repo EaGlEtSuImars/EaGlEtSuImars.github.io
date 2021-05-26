@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a fourth year Ph.D. candidate at Department of Real Estate and Construction, Faculty of Architecture, The University of Hong Kong (HKU), under the supervision of [Prof. Wilson W.S. Lu](https://fac.arch.hku.hk/wilson/) and [Dr Ling Hin Li](http://rec.hku.hk/li/). <br> I am a member of [iLab](https://ilab.hku.hk/), The University of Hong Kong.
-I received my Bachelor's degree of Enginnering and Bachelor's degree of Law (second degree) in Harbin Institute of Technology in Harbin, China, and Master's degree of Management in Tongji University in Shanghai, China under the supervision of [Prof. Yun Le](https://baike.baidu.com/item/%E4%B9%90%E4%BA%91). 
+I just finished my PhD in April 2021 and I am currently a Post-doctoral Fellow at Department of Real Estate and Construction, Faculty of Architecture, The University of Hong Kong (HKU).  <br> I am a member of [iLab](https://ilab.hku.hk/), The University of Hong Kong. I am currently the research team leader of iLab's 10 million HKD Innovation and Technology Fund (ITF) project [“BIM Square”: Blockchain and i-Core-enabled Multi-stakeholder Building Information Modelling Platform for Construction Logistics and Supply Chain Management in Hong Kong](http://blockchainbim.hku.hk./).
+I received my Bachelor's degree of Enginnering and Bachelor's degree of Law (second degree) in Harbin Institute of Technology in Harbin, China, and Master's degree of Management in Tongji University in Shanghai, China under the supervision of [Prof. Yun Le](https://baike.baidu.com/item/%E4%B9%90%E4%BA%91). My PhD primary supervisor is [Prof. Wilson W.S. Lu](https://fac.arch.hku.hk/wilson/) and co-supervisor is [Dr Ling Hin Li](http://rec.hku.hk/li/).
 
 # Research Interests
-Organization Management, Building Information Modelling, Cognitive Facility Management, Sensing Technologies, Project Management, Construction Waste Management
+Organization Technology Transformation, Smart Construction, Context-awareness, Building Information Modelling, Cognitive Facility Management, Sensing Technologies, Project Management, Construction Waste Management
 
 # Research Projects
 * Hong Kong Innovation and Technology Fund (ITF). <i>“BIM Square”: Blockchain and i-Core-enabled Multi-stakeholder Building Information Modelling Platform for Construction Logistics and Supply Chain Management in Hong Kong</i>. HK$10,360,714.25, 24 months. (**Co-Investigator**).     
