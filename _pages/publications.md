@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Papers
+* Weisheng LU, Wendy M. Lee, Fan Xue, & **Jinying XU** (2021). Revisiting the effects of prefabrication on construction waste minimization: a quantitative study using bigger data. Resources, Conservation and Recycling. 170, 105579. ([Link](https://www.sciencedirect.com/science/article/pii/S0921344921001865)).
 * **Jinying XU**, Meng YE, Weisheng LU, Zhikang BAO, & Chris WEBSTER. (2020). "A four-quadrant conceptual framework for analyzing extended producer responsibility in offshore prefabrication construction".<i>Journal of Cleaner Production</i>, 124540. ([Link](https://doi.org/10.1016/j.jclepro.2020.124540)).
 * **Jinying XU**, Weisheng LU, Meng YE, Chris WEBSTER, & Fan XUE. (2020). "An anatomy of waste generation flows in construction projects using passive bigger data". <i>Waste Management, 106</i>, 162-172.([Link](https://www.sciencedirect.com/science/article/pii/S0956053X20301343)).
 * **Jinying XU**, Weisheng LU, Meng YE, Fan XUE, Xiaoling ZHANG, & Billy F.P. LEE. (2020). "Is the private sector more efficient? Big data analytics of construction waste management sectoral efficiency". <i>Resources Conservation and Recycling, 155</i>, 104674.([Link](https://www.sciencedirect.com/science/article/pii/S0921344919305804)).
