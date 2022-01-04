@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Papers
-* 18.	Maosu Li, Yi PENG, Yijie WU, **Jinying XU**, Tan TAN, Hui GUO, LWeisheng LU, Gar-On YEH, & Fan XUE (2022). "Role of the built environment in the recovery from Covid-19: Evidence from a GIS-based natural experiment on the city blocks in Wuhan, China". <i>Frontiers Built Environment</i>.
+* 18.	Maosu LI, Yi PENG, Yijie WU, **Jinying XU**, Tan TAN, Hui GUO, LWeisheng LU, Gar-On YEH, & Fan XUE (2022). "Role of the built environment in the recovery from Covid-19: Evidence from a GIS-based natural experiment on the city blocks in Wuhan, China". <i>Frontiers Built Environment</i>.
 * 17. Liupengfei WU, Weisheng LU, Rui ZHAO, **Jinying XU**, Xiao LI, & Fan XUE (2022). "Using blockchain to improve information sharing accuracy in the on-site assembly of modular construction". <i>Journal of Management in Engineering</i>. 
 * 16. Liupengfei WU, Weisheng LU, & **Jinying XU**. (2022). "Blockchain-based smart contract for smart payment in construction: A focus on the payment freezing and disbursement cycle". <i>Frontiers in Engineering Management</i>.
 * 15. **Jinying XU***, Weisheng LU, & Eleni PAPADONIKOLAKI. (2022). "Human-Organization-Technology Fit Model for BIM adoption in Construction Project Organizations: Impact factor analysis using SNA and comparative case study". <i>Journal of Management in Engineering</i>. ([Link](https://doi.org/10.1061/(ASCE)ME.1943-5479.0001013)). 
