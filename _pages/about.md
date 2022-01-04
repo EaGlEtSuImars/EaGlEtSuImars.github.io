@@ -10,9 +10,10 @@ redirect_from:
 I just finished my PhD in April 2021 and I am currently a Post-doctoral Fellow at Department of Real Estate and Construction, Faculty of Architecture, The University of Hong Kong (HKU).  <br> I am a member of [iLab](https://ilab.hku.hk/), The University of Hong Kong. I am currently the research team leader of iLab's 10 million HKD Innovation and Technology Fund (ITF) project [“BIM Square”: Blockchain and i-Core-enabled Multi-stakeholder Building Information Modelling Platform for Construction Logistics and Supply Chain Management in Hong Kong](http://blockchainbim.hku.hk./). <br> I received my Bachelor's degree of Enginnering and Bachelor's degree of Law (second degree) in Harbin Institute of Technology in Harbin, China, and Master's degree of Management in Tongji University in Shanghai, China under the supervision of [Prof. Yun Le](https://baike.baidu.com/item/%E4%B9%90%E4%BA%91). My PhD primary supervisor is [Prof. Wilson W.S. Lu](https://fac.arch.hku.hk/wilson/) and co-supervisor is [Dr Ling Hin Li](http://rec.hku.hk/li/).
 
 # Research Interests
-Organization Technology Transformation, Smart Construction, Context-awareness, Building Information Modelling, Cognitive Facility Management, Sensing Technologies, Project Management, Construction Waste Management
+Organization Technology Transformation, Digital Transformation, Smart Construction, Context-awareness, Building Information Modelling, Cognitive Facility Management, Sensing Technologies, Project Management, Construction Waste Management
 
 # Research Projects
+* HKU Seed Fund for Strategic Interdisciplinary Research Scheme.<i>“Smart Construction Objects”: A New Paradigm Towards Construction 4.0</i>. HK$ 982,240, 48 months.(**Co-Investigator**). 
 * Hong Kong Innovation and Technology Fund (ITF). <i>“BIM Square”: Blockchain and i-Core-enabled Multi-stakeholder Building Information Modelling Platform for Construction Logistics and Supply Chain Management in Hong Kong</i>. HK$10,360,714.25, 24 months. (**Co-Investigator**).     
 * The Government Policy Innovation and Co-Ordination Office (PICO) Strategic Public Policy Research (SPPR) Funding Scheme. <i>Boosting Construction Waste Material Sharing in the Guangdong- Hong Kong-Macao Bay Area</i>. HK$2,902,000.00, 36 months. (**Key Participant**).
 * The Government Policy Innovation and Co-Ordination Office (PICO) Public Policy Research (PPR) Funding Scheme. <i>Finding the Needles in a Haystack”: Identification of the Illegal Dumping of Construction Waste Using Big Data</i>. HK$ 447,350.00, 18 months. (**Key Participant**).
@@ -23,13 +24,21 @@ Organization Technology Transformation, Smart Construction, Context-awareness, B
 * Major Program of National Natural Science Foundation of China (NSFC). <i>Research of theories, methods and application innovation of mega infrastructure project management</i>. CNY15,000,000.00, 60 months. (**Participant**).
   
 # Editorship
-* International Journal of Construction Management (Editorial Secretary, Reviewer);
+* International Journal of Construction Management (Reviewer);
 * Automation in Construction (Reviewer);
+* Building Research & Information (Reviewer);
+* PLOS One (Reviewer);
 * Environmental Impact Assessment Review (Reviewer); 
+* Journal of Construction Engineering and Management (Reviewer);
 * Developments in the Built Environment (Reviewer);
+* Building (Reviewer Board);
+* Sustainability(Reviewer);
 * Heliyon (Reviewer).
 
 # Honors and Awards
+* 2021, Research Institute Silver Award, Hong Kong Construction Industry Council Construction Digitalisation Awards, CIC;
+* 2021, Professional Research Award, buildingSMART Internation Awards Programme, bSI;
+* 2021, Merit Paper Award, The 26th International Symposium on the Advancement of Construction Management and Real Estate, CRIOCM;
 * 2020, Outstanding Paper Award, The 25th International Symposium on the Advancement of Construction Management and Real Estate, CRIOCM;
 * 2019, Excellent Paper Award, The 24th International Symposium on the Advancement of Construction Management and Real Estate, CRIOCM;
 * 2019, 4th Prize, The 11th Innovation Competition in Construction Engineering and Management (ICCEM), Tsinghua University and Gammon Construction Ltd.;
@@ -49,9 +58,9 @@ Organization Technology Transformation, Smart Construction, Context-awareness, B
 * 2011, Outstanding Student, Harbin Institute of Technology, Harbin, China.
 
 # Services
-* 2017-Now, Vice President,	CIB-HKU Student Chapter, HKU;
+* 2017-2021, Vice President,	CIB-HKU Student Chapter, HKU;
 * 2010-2013, Vice President,	Student Union at School of Economics and Management, HIT.
 
 # Membership
-* Student Member,	American Society of Civil Engineers (ASCE);
-* Student Member, International Council for Research and Innovation in Building and Construction (CIB)；
+* Member,	American Society of Civil Engineers (ASCE);
+* Member, International Council for Research and Innovation in Building and Construction (CIB).
