@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Papers
-25. Liupengfei WU, Xiao LI*, Rui ZHAO, Weisheng LU, **Jinying XU**, & Fan XUE (2022). "A Blockchain-based Supervision Model with Incentives for Cross-border Logistics in Modular Construction". <i>Journal of Cleaner Production, 375</i>. ([Link](https://doi.org/10.1016/j.jclepro.2022.133460)).
+1. Liupengfei WU, Xiao LI*, Rui ZHAO, Weisheng LU, **Jinying XU**, & Fan XUE (2022). "A Blockchain-based Supervision Model with Incentives for Cross-border Logistics in Modular Construction". <i>Journal of Cleaner Production, 375</i>. ([Link](https://doi.org/10.1016/j.jclepro.2022.133460)).
 24. **Jinying XU***, Weisheng LU, Liupengfei WU, Xiao LI, & Jinfeng LOU (2022). Balancing privacy and occupational safety and health in construction: A blockchain-enabled P-OSH deployment framework. <i>Safety Science, 154</i>, 105860. ([Link](https://doi.org/10.1016/j.ssci.2022.105860)).
 23. **Jinying XU*** & Weisheng LU (2022). Developing a Human-Organization-Technology Fit (HOT) model for information technology adoption in organizations. <i>Technology in Society, 70</i>, 102010. ([Link](https://doi.org/10.1016/j.techsoc.2022.102010)).
 22. Weisheng LU, Frank Ato GHANSA*, & **Jinying XU** (2022). A category and index hybrid (CIH) approach to measuring the levels of prefabrication. <i>International Journal of Construction Management</i>. ([Link](https://doi.org/10.1080/15623599.2022.2084599)).
@@ -31,7 +31,7 @@ author_profile: true
 1. Jian CHEN, Lei SUN, **Jinying XU**, & Tianheng CHEN. (2013). "Engineering management education inspired by the idea of achievement system. <i>Science & Technology Progress and Policy". 30</i>(23), 117-119. (In Chinese).([Link](http://www.cqvip.com/qk/90284x/201323/48247119.html)).
 
 # Conference Papers
-13.	**Jinying XU**, Zhongze YANG, Weisheng LU, & Fan XUE. (2021). Impacts of the COVID-19 Pandemic on construction industry: a comparison between Hong Kong and Singapore. In The 26th International Symposium on the Advancement of Construction Management and Real Estate. Beijing, China. 
+1.	**Jinying XU**, Zhongze YANG, Weisheng LU, & Fan XUE. (2021). Impacts of the COVID-19 Pandemic on construction industry: a comparison between Hong Kong and Singapore. In The 26th International Symposium on the Advancement of Construction Management and Real Estate. Beijing, China. 
 12.	Jinfeng LOU, **Jinying XU**,  Weisheng LU, & Fan XUE. (2021). A generic framework for BIM component naming. In The 26th International Symposium on the Advancement of Construction Management and Real Estate. Beijing, China.  
 11. Frank Ato GHANSAH, Weisheng LU, & **Jinying XU**. (2021). Cognitive Modular Building to Enhance User Wellbeing: An Insight from Literature Review on Potential Design Considerations and Benefits. In The 26th International Symposium on the Advancement of Construction Management and Real Estate. Beijing, China.  
 10. **Jinying XU***, & Weisheng LU. (2020). The Iron Triangle of BIM adoption in construction project organizations. In <i>The 25th International Symposium on the Advancement of Construction Management and Real Estate</i>. Wuhan, China. (**Outstanding Paper Award**)
@@ -46,7 +46,7 @@ author_profile: true
 1. Fan XUE, Alain CHIARADIA, Chris WEBSTER, Diandian LIU, **Jinying XU**, & Weisheng LU. (2018). Personalized walkability assessment for pedestrian paths: An as-built BIM approach using ubiquitous augmented reality (AR) smartphone and deep transfer learning. In <i>The 23rd International Symposium on the Advancement of Construction Management and Real Estate</i>. Guiyang, China.([Link](https://pdfs.semanticscholar.org/6a68/e97392837b2632800d8d4a0ba57b91cbc3aa.pdf))
 
 # Book Chapters
-6.	Weisheng LU & **Jinying XU**. "Big data analytics and project organizing" In <i>Research Handbook on Complex Project Organizing</i> (2022) edited by Graham Winch, Maude Brunet, and Dongping Cao, Edward Elgar Publishing Limited. 
+1.	Weisheng LU & **Jinying XU**. "Big data analytics and project organizing" In <i>Research Handbook on Complex Project Organizing</i> (2022) edited by Graham Winch, Maude Brunet, and Dongping Cao, Edward Elgar Publishing Limited. 
 5. **Jinying XU***, & Weisheng LU. "BIM, Smart Construction Objects (SCOs) and Pervasive Technologies Integration" in <i>Research Companion to Building Information Modeling</i> (2022), edited by Prof. Wilson Lu and Prof. Chimay Anumba, Edward Elgar Publishing Limited. (Peer-reviewed)(Coming Soon)
 4. **Jinying XU***, Weisheng LU, & Yuhan NIU. "Chapter 15 From Smart Construction objects towards Cognitive FM" in <i>Cyber-Physical Systems in the Built Environment</i> (2020), edited by Prof. Chimay Anumba, Taylor & Francis. (Peer-reviewed). ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-41560-0.pdf)) 
 3. "Chapter 7 Current Challenges and future outlooks" in <i>BIM and Big Data for Construction Cost Management</i>(2019), edited by Weisheng Lu, Chi Cheung Lai, and Tung Tse, Routledge.([Link](https://books.google.co.uk/books?hl=en&lr=&id=uHdyDwAAQBAJ&oi=fnd&pg=PT11&dq=BIM+and+Big+Data+for+Construction+Cost+Management&ots=RFMkpVrrJv&sig=4YefQntLjwhAM24lLbATraTlVd0))
