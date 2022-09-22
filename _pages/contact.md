@@ -5,8 +5,10 @@ author_profile: true
 ---
 
 
-Room 714, Knowles Building<br>
-The University of Hong Kong<br>
-Pokfulam Road<br>
-Hong Kong<br>
-Email: jinyingxu@connect.hku.hk<br>drjyxu@hku.hk
+Civil Engineering Building<br>
+JJ Thomson Avenue 7a<br>
+Cambridge CB3 0FA<br>
+United Kingdom<br>
+ 
+
+Email: jx314@cam.ac.uk<br>jinyingxu@connect.hku.hk
