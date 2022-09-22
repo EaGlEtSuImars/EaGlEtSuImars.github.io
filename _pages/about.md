@@ -9,11 +9,9 @@ redirect_from:
 ---
 I am currently a FUTUREROADS-COFUND Marie Sklodowska-Curie Fellow (for short, [Future Roads Fellow](https://drf.eng.cam.ac.uk/staff/jinying-xu)) working at the Department of Engineering, University of Cambridge, starting from September 2022. The Future Roads Fellow Programme and the [Digital Roads of the Future Initiative](https://drf.eng.cam.ac.uk/) are two co-supported research programmes focusing on digital revolution of our vital road network. My research project is "Data science and advanced technologies for sustainability-orientated decision-making" where I aim to develop a decision-making platform on top of an interoperable, consistent and unified data architecture with a set of data protocols and integrated advanced data collection, storage, analysis, and visualisation technologies for sustainable future roads highway.
 
-I finished my PhD in April 2021 and I worked currently a Post-doctoral Fellow from May 2021 to August 2022 at Department of Real Estate and Construction, Faculty of Architecture, The University of Hong Kong (HKU).  
+Before joining Cambridge, I worked as a Post-doctoral Fellow from May 2021 to August 2022 at Department of Real Estate and Construction, Faculty of Architecture, The University of Hong Kong (HKU). I was a member of [iLab](https://ilab.hku.hk/) and the research team leader of iLab's 10 million HKD Innovation and Technology Fund (ITF) project [“BIM Square”: Blockchain and i-Core-enabled Multi-stakeholder Building Information Modelling Platform for Construction Logistics and Supply Chain Management in Hong Kong](http://blockchainbim.hku.hk./). 
 
-I was a member of [iLab](https://ilab.hku.hk/), The University of Hong Kong. I was the research team leader of iLab's 10 million HKD Innovation and Technology Fund (ITF) project [“BIM Square”: Blockchain and i-Core-enabled Multi-stakeholder Building Information Modelling Platform for Construction Logistics and Supply Chain Management in Hong Kong](http://blockchainbim.hku.hk./). 
-
-I received my Bachelor's degree of Enginnering and Bachelor's degree of Law (second degree) in Harbin Institute of Technology in Harbin, China, and Master's degree of Management in Tongji University in Shanghai, China under the supervision of [Prof. Yun Le](https://baike.baidu.com/item/%E4%B9%90%E4%BA%91). My PhD primary supervisor is [Prof. Wilson W.S. Lu](https://fac.arch.hku.hk/wilson/) and co-supervisor is [Dr Ling Hin Li](http://rec.hku.hk/li/).
+I received my Bachelor's degree of Enginnering and Bachelor's degree of Law (second degree) in Harbin Institute of Technology in Harbin, China, and Master's degree of Management in Tongji University in Shanghai, China under the supervision of [Prof. Yun Le](https://baike.baidu.com/item/%E4%B9%90%E4%BA%91). I finished my PhD in April 2021, also at HKU. My PhD primary supervisor is [Prof. Wilson W.S. Lu](https://fac.arch.hku.hk/wilson/) and co-supervisor is [Dr Ling Hin Li](http://rec.hku.hk/li/).
 
 # Research Interests
 Data Science, Sustainable Infrastructure, Smart Construction, Organization Technology Transformation, Digital Transformation, Context-awareness, Building Information Modelling, Cognitive Facility Management, Sensing Technologies, Construction Project Management, Construction Waste Management
@@ -34,6 +32,7 @@ Data Science, Sustainable Infrastructure, Smart Construction, Organization Techn
 * Journal of Management in Engineering (Reviewer);
 * Automation in Construction (Reviewer);
 * Building Research & Information (Reviewer);
+* Journal of Building Engineering (Reviewer);
 * PLOS One (Reviewer);
 * Environmental Impact Assessment Review (Reviewer); 
 * Journal of Construction Engineering and Management (Reviewer);
@@ -45,7 +44,7 @@ Data Science, Sustainable Infrastructure, Smart Construction, Organization Techn
 * Heliyon (Reviewer).
 
 # Honors and Awards
-* 2022, 
+* 2022, Best Paper Award, Journal of Management in Engineering, ASCE
 * 2021, Research Institute Silver Award, Hong Kong Construction Industry Council Construction Digitalisation Awards, CIC;
 * 2021, Professional Research Award, buildingSMART Internation Awards Programme, bSI;
 * 2021, Merit Paper Award, The 26th International Symposium on the Advancement of Construction Management and Real Estate, CRIOCM;
