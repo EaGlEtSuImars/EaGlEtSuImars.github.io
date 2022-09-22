@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Papers
-* 25. Liupengfei WU, Xiao LI*, Rui ZHAO, Weisheng LU, **Jinying XU**, & Fan XUE (2022). "A Blockchain-based Supervision Model with Incentives for Cross-border Logistics in Modular Construction". <i>Journal of Cleaner Production, 375</i>. ([Link](https://doi.org/10.1016/j.jclepro.2022.133460)).
+25. Liupengfei WU, Xiao LI*, Rui ZHAO, Weisheng LU, **Jinying XU**, & Fan XUE (2022). "A Blockchain-based Supervision Model with Incentives for Cross-border Logistics in Modular Construction". <i>Journal of Cleaner Production, 375</i>. ([Link](https://doi.org/10.1016/j.jclepro.2022.133460)).
 * 24. **Jinying XU***, Weisheng LU, Liupengfei WU, Xiao LI, & Jinfeng LOU (2022). Balancing privacy and occupational safety and health in construction: A blockchain-enabled P-OSH deployment framework. <i>Safety Science, 154</i>, 105860. ([Link](https://doi.org/10.1016/j.ssci.2022.105860)).
 * 23. **Jinying XU*** & Weisheng LU (2022). Developing a Human-Organization-Technology Fit (HOT) model for information technology adoption in organizations. <i>Technology in Society, 70</i>, 102010. ([Link](https://doi.org/10.1016/j.techsoc.2022.102010)).
 * 22. Weisheng LU, Frank Ato GHANSA*, & **Jinying XU** (2022). A category and index hybrid (CIH) approach to measuring the levels of prefabrication. <i>International Journal of Construction Management</i>. ([Link](https://doi.org/10.1080/15623599.2022.2084599)).
