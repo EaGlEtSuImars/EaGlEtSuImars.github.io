@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Papers
-28. Ying Wang, **Jinying XU**, Junying Liu*, Yunlong Li (2024). "Turning Pressure into Power: The Configuration Effect of Antecedents on the Digital Transformation of Engineering Enterprises".<i>Journal of Management in Engineering, 40</i>(1), 04023059. ([Link](https://doi.org/10.1061/JMENEA.MEENG-5636)).
+28. Ying Wang, **Jinying XU**, Junying Liu*, Yunlong Li (2024). "Turning Pressure into Power: The Configuration Effect of Antecedents on the Digital Transformation of Engineering Enterprises". <i>Journal of Management in Engineering, 40</i>(1), 04023059. ([Link](https://doi.org/10.1061/JMENEA.MEENG-5636)).
 27. **Jinying XU**, Jinfeng Lou*, Weisheng LU (2023). "Ensuring construction material provenance using Internet of Things and blockchain: Learning from the food industry". <i>Journal of Industrial Information Integration, 33</i>, 100455. ([Link](https://doi.org/10.1016/j.jii.2023.100455)).
 26. **Jinying XU***, Weisheng LU (2023). "How Does Hierarchy Steepness Affect Coordination in Project-Based Organizations? A Social Network Analysis". <i>Project Management Journal, 54</i>(3), 306-321. ([Link](https://doi.org/10.1177/875697282211508)).
 25. Liupengfei WU, Xiao LI*, Rui ZHAO, Weisheng LU, **Jinying XU**, & Fan XUE (2022). "A Blockchain-based Model with an Incentive for Cross-border Logistics Supervision and Daa Sharing in Modular Construction". <i>Journal of Cleaner Production, 375</i>. ([Link](https://doi.org/10.1016/j.jclepro.2022.133460)).
