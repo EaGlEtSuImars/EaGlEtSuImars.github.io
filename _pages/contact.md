@@ -6,7 +6,7 @@ author_profile: true
 
 
 Department of the Built Environment<br>
-College of Design and Engineering 7a<br>
+College of Design and Engineering<br>
 Lower Kent Ridge<br>
 Singapore<br>
  
