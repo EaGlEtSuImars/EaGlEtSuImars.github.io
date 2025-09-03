@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Papers
+29. 
+[HTML] from sciencedirect.com
+30. **Jinying XU***, Kristen MacAskill (2024). "Carbon data and its requirements in infrastructure-related GHG standards". <i>Environmental Science & Policy, 162</i>, 103935. ([Link](https://www.sciencedirect.com/science/article/pii/S1462901124002697))
+29. Yongkui Li, Qinyue Wang, Xiyu Pan, Jian Zuo, **Jinying XU**, Yilong Han (2024). "Digital twins for engineering asset management: synthesis, analytical framework, and future directions". <i>Engineering, 41</i>, 261-275. ([Link](https://www.sciencedirect.com/science/article/pii/S209580992400047X)).
 28. Ying Wang, **Jinying XU**, Junying Liu*, Yunlong Li (2024). "Turning Pressure into Power: The Configuration Effect of Antecedents on the Digital Transformation of Engineering Enterprises". <i>Journal of Management in Engineering, 40</i>(1), 04023059. ([Link](https://doi.org/10.1061/JMENEA.MEENG-5636)).
 27. **Jinying XU**, Jinfeng Lou*, Weisheng LU (2023). "Ensuring construction material provenance using Internet of Things and blockchain: Learning from the food industry". <i>Journal of Industrial Information Integration, 33</i>, 100455. ([Link](https://doi.org/10.1016/j.jii.2023.100455)).
 26. **Jinying XU***, Weisheng LU (2023). "How Does Hierarchy Steepness Affect Coordination in Project-Based Organizations? A Social Network Analysis". <i>Project Management Journal, 54</i>(3), 306-321. ([Link](https://doi.org/10.1177/875697282211508)).
