@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 
-Civil Engineering Building<br>
-JJ Thomson Avenue 7a<br>
-Cambridge CB3 0FA<br>
-United Kingdom<br>
+Department of the Built Environment<br>
+College of Design and Engineering 7a<br>
+Lower Kent Ridge<br>
+Singapore<br>
  
 
-Email: jx314@cam.ac.uk<br>jinyingxu@connect.hku.hk
+Email: jinying.xu@nus.edu.sg<br>jx314@cam.ac.uk<br>jinyingxu@connect.hku.hk
